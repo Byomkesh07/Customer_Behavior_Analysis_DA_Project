@@ -1,0 +1,22 @@
+# Data files (NEVER upload raw data)
+*.csv
+customer_shopping_behavior.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+myenv/
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
